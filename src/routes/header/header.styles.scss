@@ -1,0 +1,41 @@
+.header {
+  height: 70px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+
+  .logo-container {
+    display: flex;
+    height: 100%;
+    width: 300px;
+    padding-left: 25px;
+    padding-top: 10px;
+    align-items: center;
+
+    .name {
+      padding-top: 5px;
+      font-size: 22px;
+    }
+
+    .logo {
+      max-width: 40px;
+      max-height: 40px;
+    }
+  }
+
+  .navigation-container {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 25px;
+    padding-top: 20px;
+    font-size: 18px;
+
+    .nav-link {
+      cursor: pointer;
+    }
+  }
+}
