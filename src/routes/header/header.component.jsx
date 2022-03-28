@@ -14,6 +14,9 @@ const Header = () => {
           <div className="name">burg clothing co.</div>
         </Link>
         <div className="navigation-container">
+          <Link className="nav-link" to="/sign-in">
+            sign in
+          </Link>
           <Link className="nav-link" to="/shop">
             shop
           </Link>
