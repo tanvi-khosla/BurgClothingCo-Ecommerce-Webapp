@@ -6,7 +6,7 @@ const Home = () => {
       id: 1,
       title: "TEES",
       imageUrl:
-        "https://images.unsplash.com/photo-1530558215369-ba361d8734f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHRzaGlydHN8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1579109015395-eb2bf0fa095e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHQlMjBzaGlydHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
     },
     {
       id: 2,
